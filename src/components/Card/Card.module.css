@@ -1,0 +1,8 @@
+.Card{
+    margin: 15px 20px;
+    border: 2px solid black;
+}
+
+.Card h3{
+    margin-left: 15px;
+}
