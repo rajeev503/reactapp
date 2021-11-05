@@ -4,7 +4,9 @@ import styles from './Card.module.css'
 
 const Card=()=>{
     return (
+        
         <div className={styles.Card} >
+            {/* ok */}
              <h3>Max (31 Years Old)</h3>
         </div>
     )
