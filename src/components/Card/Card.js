@@ -7,6 +7,7 @@ const Card=()=>{
         
         <div className={styles.Card} >
             {/* ok */}
+            {/* done */}
              <h3>Max (31 Years Old)</h3>
         </div>
     )
