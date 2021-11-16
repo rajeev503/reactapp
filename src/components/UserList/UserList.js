@@ -10,8 +10,7 @@ export default function UserList() {
             <Card/>
             {/* ok */}
             <Card/>
-            {/* ok */}
-            {/* ok */}
+            
         </div>
     )
 }
