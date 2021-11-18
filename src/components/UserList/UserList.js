@@ -8,7 +8,7 @@ export default function UserList() {
         <div className={styles.UserList} >
             {/* ok */}
             <Card/>
-            {/* ok */}
+            
             <Card/>
             
         </div>
